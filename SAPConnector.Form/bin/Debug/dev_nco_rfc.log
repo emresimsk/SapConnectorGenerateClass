@@ -1,0 +1,190 @@
+**** Trace file opened at 2018-02-18 21:43:20 (UTC+03:00 Turkey Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.6.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug\SAP.Form.vshost.exe
+Working directory: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 200
+Hostname: DESKTOP-BGP3MQS, IP address: 172.22.87.161, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2018-02-18 21:43:20.319
+NAME=IDECON USER=XESIMSEK PASSWD=*secret* CLIENT=800 LANG=TR ASHOST=173.212.229.144 SYSNR=10 IDLE_TIMEOUT=600 POOL_SIZE=5 MAX_POOL_SIZE=10
+SAP.Middleware.Connector.RfcInvalidParameterException: Cannot get function metadata for a name that is null or empty
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+>> Error entry 2018-02-18 21:43:20.342
+SAP.Middleware.Connector.RfcInvalidParameterException: Cannot get function metadata for a name that is null or empty
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.CreateFunction(String name)
+**** Trace file opened at 2018-02-18 21:44:07 (UTC+03:00 Turkey Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.6.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug\SAP.Form.vshost.exe
+Working directory: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 200
+Hostname: DESKTOP-BGP3MQS, IP address: 172.22.87.161, IP_v6 address: 
+
+Default trace level: None
+
+>> Info entry 2018-02-18 21:44:07.744
+Invalid LZ-compressed data block received, ignored.
+**** Trace file opened at 2018-02-19 11:15:13 (UTC+03:00 Turkey Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.6.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug\SAP.Form.vshost.exe
+Working directory: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 200
+Hostname: DESKTOP-BGP3MQS, IP address: 172.22.87.161, IP_v6 address: 
+
+Default trace level: None
+
+>> Info entry 2018-02-19 11:15:13.108
+Invalid LZ-compressed data block received, ignored.
+**** Trace file opened at 2018-02-19 11:16:19 (UTC+03:00 Turkey Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.6.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug\SAP.Form.vshost.exe
+Working directory: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 200
+Hostname: DESKTOP-BGP3MQS, IP address: 172.22.87.161, IP_v6 address: 
+
+Default trace level: None
+
+>> Info entry 2018-02-19 11:16:19.918
+Invalid LZ-compressed data block received, ignored.
+**** Trace file opened at 2018-02-19 11:37:58 (UTC+03:00 Turkey Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.6.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug\SAP.Form.vshost.exe
+Working directory: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 200
+Hostname: DESKTOP-BGP3MQS, IP address: 172.22.87.161, IP_v6 address: 
+
+Default trace level: None
+
+>> Info entry 2018-02-19 11:37:58.095
+Invalid LZ-compressed data block received, ignored.
+**** Trace file opened at 2018-02-19 14:33:00 (UTC+03:00 Turkey Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.6.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug\SAP.Form.vshost.exe
+Working directory: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 200
+Hostname: DESKTOP-BGP3MQS, IP address: 172.22.87.161, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2018-02-19 14:33:00.963
+NAME=IDECON USER=XESIMSEK PASSWD=*secret* CLIENT=800 LANG=TR ASHOST=173.212.229.144 SYSNR=10 IDLE_TIMEOUT=600 POOL_SIZE=5 MAX_POOL_SIZE=10
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for function BAPI_0035_CRasEATE not available: FU_NOT_FOUND: Function module BAPI_0035_CRasEATE does not exist
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadataNew(String name)
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+>> Error entry 2018-02-19 14:33:00.980
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for function BAPI_0035_CRasEATE not available: FU_NOT_FOUND: Function module BAPI_0035_CRasEATE does not exist
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadataNew(String name)
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.CreateFunction(String name)
+**** Trace file opened at 2018-02-19 14:35:47 (UTC+03:00 Turkey Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.6.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug\SAP.Form.vshost.exe
+Working directory: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 200
+Hostname: DESKTOP-BGP3MQS, IP address: 172.22.87.161, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2018-02-19 14:35:47.269
+NAME=IDECON USER=XESIMSEK PASSWD=*secret* CLIENT=800 LANG=TR ASHOST=173.212.229.144 SYSNR=10 IDLE_TIMEOUT=600 POOL_SIZE=5 MAX_POOL_SIZE=10
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for function BAPI_0035_CRasEATE not available: FU_NOT_FOUND: Function module BAPI_0035_CRasEATE does not exist
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadataNew(String name)
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+>> Error entry 2018-02-19 14:35:47.269
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for function BAPI_0035_CRasEATE not available: FU_NOT_FOUND: Function module BAPI_0035_CRasEATE does not exist
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadataNew(String name)
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.CreateFunction(String name)
+**** Trace file opened at 2018-04-19 10:04:30 (UTC+03:00 Turkey Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.6.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug\SAP.Form.exe
+Working directory: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 200
+Hostname: DESKTOP-BGP3MQS, IP address: 192.168.25.195, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2018-04-19 10:04:30.583
+NAME=IDECON USER=xesimsek PASSWD=*secret* CLIENT=800 LANG=TR ASHOST=173.212.229.144 SYSNR=00 IDLE_TIMEOUT=600 POOL_SIZE=5 MAX_POOL_SIZE=00
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for TableOnly ET_KAYIT_DONEMI not available: NOT_FOUND: No active nametab exists for ET_KAYIT_DONEMI
+   at SAP.Middleware.Connector.RfcRepository.LookupRecordMetadataNew(String name, RecordType recordType)
+   at SAP.Middleware.Connector.RfcRepository.LookupRecordMetadata(String name, RecordType recordType)
+   at SAP.Middleware.Connector.RfcRepository.GetTableMetadata(String name)
+>> Error entry 2018-04-19 10:04:43.171
+NAME=IDECON USER=xesimsek PASSWD=*secret* CLIENT=800 LANG=TR ASHOST=173.212.229.144 SYSNR=00 IDLE_TIMEOUT=600 POOL_SIZE=5 MAX_POOL_SIZE=00
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for TableOnly ET_KAYIT_DONEMI not available: NOT_FOUND: No active nametab exists for ET_KAYIT_DONEMI
+   at SAP.Middleware.Connector.RfcRepository.LookupRecordMetadataNew(String name, RecordType recordType)
+   at SAP.Middleware.Connector.RfcRepository.LookupRecordMetadata(String name, RecordType recordType)
+   at SAP.Middleware.Connector.RfcRepository.GetTableMetadata(String name)
+>> Error entry 2018-04-19 10:05:32.545
+NAME=IDECON USER=xesimsek PASSWD=*secret* CLIENT=800 LANG=TR ASHOST=173.212.229.144 SYSNR=00 IDLE_TIMEOUT=600 POOL_SIZE=5 MAX_POOL_SIZE=00
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for TableOnly ET_KAYIT_DONEMI not available: NOT_FOUND: No active nametab exists for ET_KAYIT_DONEMI
+   at SAP.Middleware.Connector.RfcRepository.LookupRecordMetadataNew(String name, RecordType recordType)
+   at SAP.Middleware.Connector.RfcRepository.LookupRecordMetadata(String name, RecordType recordType)
+   at SAP.Middleware.Connector.RfcRepository.GetTableMetadata(String name)
+**** Trace file opened at 2018-04-19 10:12:59 (UTC+03:00 Turkey Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.6.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug\SAP.Form.exe
+Working directory: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 200
+Hostname: DESKTOP-BGP3MQS, IP address: 192.168.25.195, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2018-04-19 10:12:59.664
+NAME=IDECON USER=xesimsek PASSWD=*secret* CLIENT=800 LANG=TR ASHOST=173.212.229.144 SYSNR=00 IDLE_TIMEOUT=600 POOL_SIZE=5 MAX_POOL_SIZE=00
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for TableOnly ET_KAYIT_DONEMI not available: NOT_FOUND: No active nametab exists for ET_KAYIT_DONEMI
+   at SAP.Middleware.Connector.RfcRepository.LookupRecordMetadataNew(String name, RecordType recordType)
+   at SAP.Middleware.Connector.RfcRepository.LookupRecordMetadata(String name, RecordType recordType)
+   at SAP.Middleware.Connector.RfcRepository.GetTableMetadata(String name)
+**** Trace file opened at 2018-04-19 10:13:26 (UTC+03:00 Turkey Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.6.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug\SAP.Form.exe
+Working directory: C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Form\bin\Debug
+Operating system:  Professional 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 720, Kernel release: 720, Kernel patch level: 200
+Hostname: DESKTOP-BGP3MQS, IP address: 192.168.25.195, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2018-04-19 10:13:26.483
+NAME=IDECON USER=xesimsek PASSWD=*secret* CLIENT=800 LANG=TR ASHOST=173.212.229.144 SYSNR=00 IDLE_TIMEOUT=600 POOL_SIZE=5 MAX_POOL_SIZE=00
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for TableOnly ET_KAYIT_DONEMI not available: NOT_FOUND: No active nametab exists for ET_KAYIT_DONEMI
+   at SAP.Middleware.Connector.RfcRepository.LookupRecordMetadataNew(String name, RecordType recordType)
+   at SAP.Middleware.Connector.RfcRepository.LookupRecordMetadata(String name, RecordType recordType)
+   at SAP.Middleware.Connector.RfcRepository.GetTableMetadata(String name)

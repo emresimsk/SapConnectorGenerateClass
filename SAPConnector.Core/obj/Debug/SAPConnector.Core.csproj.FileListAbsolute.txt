@@ -1,0 +1,10 @@
+C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Core\bin\Debug\SAPConnector.Core.dll
+C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Core\bin\Debug\SAPConnector.Core.pdb
+C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Core\bin\Debug\SAPConnectionManager.dll
+C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Core\bin\Debug\sapnco.dll
+C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Core\bin\Debug\sapnco_utils.dll
+C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Core\obj\Debug\SAPConnector.Core.csprojResolveAssemblyReference.cache
+C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Core\obj\Debug\SAPConnector.Core.dll
+C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Core\obj\Debug\SAPConnector.Core.pdb
+C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Core\obj\Debug\SAPConnector.Core.csproj.CoreCompileInputs.cache
+C:\Users\idecon1\Desktop\Github\Sap-Connector\SAPConnector\SAPConnector.Core\obj\Debug\SAPConnector.Core.csproj.CopyComplete

@@ -1,0 +1,42 @@
+public class YIDE_MSRF_S_FORM_I
+	 {
+	 	 public string FORMIT { get; set; }
+	 	 public string FIRMA { get; set; }
+	 	 public string FIRMA_VKN { get; set; }
+	 	 public string SERI_SIRA { get; set; }
+	 	 public string NETWR { get; set; }
+	 	 public string WAERS { get; set; }
+	 	 public string NETWR_ARB { get; set; }
+	 	 public string WAERS_ARB { get; set; }
+	 	 public string MWSKZ { get; set; }
+	 	 public string HTURU { get; set; }
+	 	 public string BLART { get; set; }
+	 	 public string OMETOT { get; set; }
+	 	 public string ACIKLAMA { get; set; }
+	 	 public string SILINDI { get; set; }
+	 	 public string SILINDI_ACIKLAMA { get; set; }
+	 	 public string DOCUMENT_PATH { get; set; }
+	 	 public string KDVDH { get; set; }
+	 	 public string BLDAT { get; set; }
+	 }
+public class YIDE_MSRF_S_FORM_I
+	 {
+	 	 public string FORMIT { get; set; }
+	 	 public string FIRMA { get; set; }
+	 	 public string FIRMA_VKN { get; set; }
+	 	 public string SERI_SIRA { get; set; }
+	 	 public string NETWR { get; set; }
+	 	 public string WAERS { get; set; }
+	 	 public string NETWR_ARB { get; set; }
+	 	 public string WAERS_ARB { get; set; }
+	 	 public string MWSKZ { get; set; }
+	 	 public string HTURU { get; set; }
+	 	 public string BLART { get; set; }
+	 	 public string OMETOT { get; set; }
+	 	 public string ACIKLAMA { get; set; }
+	 	 public string SILINDI { get; set; }
+	 	 public string SILINDI_ACIKLAMA { get; set; }
+	 	 public string DOCUMENT_PATH { get; set; }
+	 	 public string KDVDH { get; set; }
+	 	 public string BLDAT { get; set; }
+	 }
